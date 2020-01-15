@@ -1,0 +1,25 @@
+.rbc-agenda-time-cell {
+    background-color: white;
+    color: black;
+}
+
+.rbc-agenda-date-cell {
+    background-color: white;
+    color: black;
+}
+
+.rbc-agenda-event-cell {
+    background-color: white;
+    color: black;
+}
+
+.rbc-off-range-bg{
+    background-color: #505050;
+}
+
+@media screen and (max-width: 925px){    
+    .rbc-toolbar-label{
+        width: 100%;
+    }
+}
+

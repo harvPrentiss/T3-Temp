@@ -1,0 +1,18 @@
+.modal-content{
+    border-radius: 0;
+}
+.modal-header button{
+    background-color: #555555 !important;
+    color: white;
+    font-size: 55px;
+    padding-top:0 !important;
+    padding-bottom: 12px !important;
+    font-weight: 100;
+    opacity: 1;
+    text-shadow: transparent;
+    outline: transparent !important
+}
+.modal-header button:hover{
+    color: white!important;
+    background-color: #414141!important;
+}
